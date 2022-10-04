@@ -5,4 +5,8 @@ Depois disso, escreva **No DevTools** o código necessário para que seja possí
 Cole o comando aqui:
 ```jsx
     cole o código JS nesta área.
+  function adicioneFruta(){
+    let frutaDoInput = document.getElementById("fruta").value
+    console.log(frutaDoInput)
+}
 ```
